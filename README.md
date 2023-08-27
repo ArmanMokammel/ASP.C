@@ -1,6 +1,6 @@
 # ASP.C - Restaurant Management System in C
 
-This was a CSE115 project submitted at NSU.
+This was a CSE115 project submitted at North South University.
 
 ## Authors
 
